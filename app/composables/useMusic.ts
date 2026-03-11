@@ -21,6 +21,16 @@ export const useMusic = () => {
       publishedAt: '2026-03-11'
     },
     {
+      id: 'sutoor-al-layl',
+      title: 'Sutoor al-Layl (سطور الليل)',
+      artist: 'Arabic Poetry AI',
+      description: 'A beautiful poetic composition titled "Lines of the Night".',
+      url: 'https://dwwvsq0bzwbxuz8x.public.blob.vercel-storage.com/%D8%B3%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D9%84%D9%8A%D9%84.mp4',
+      cover: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2070&auto=format&fit=crop',
+      duration: 190,
+      publishedAt: '2026-03-11'
+    },
+    {
       id: '1',
       title: 'Neon Nights',
       artist: 'Synthwave Boy',
